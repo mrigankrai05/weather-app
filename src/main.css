@@ -1,0 +1,13 @@
+.base{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.search{
+    margin: 15px;
+}
+.info{
+    margin: 15px;
+}
